@@ -2,7 +2,20 @@ body {
 	background-color: #f2f2f2;
 }
 
+h1 {
+	font-family: Futura, sans-serif;
+	font-size: 3em;
+	margin: -3.37em 458px;
+}
+
+.home {
+	color: #353535;
+	text-decoration: none;
+}
+
 .umbrella {
 	height: 100%;
 	width: 100%;
 }
+
+
