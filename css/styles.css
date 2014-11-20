@@ -13,3 +13,7 @@ h1 {
 	text-decoration: none;
 	z-index: 1;
 }
+
+#rain {
+	width: 100%;
+}
