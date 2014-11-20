@@ -11,4 +11,5 @@ h1 {
 .home {
 	color: #353535;
 	text-decoration: none;
+	z-index: 1;
 }
