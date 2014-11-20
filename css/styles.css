@@ -13,9 +13,6 @@ h1 {
 	text-decoration: none;
 }
 
-.umbrella {
-	height: 100%;
-	width: 100%;
+.link {
+	z-index: 1;
 }
-
-
